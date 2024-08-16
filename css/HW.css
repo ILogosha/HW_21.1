@@ -1,0 +1,24 @@
+.block1 {
+color: Grey;
+background-color: Silver;
+box-shadow: 0px 0px 20px 20px grey;
+text-align: center;
+}
+
+.block2 {
+	background-image: radial-gradient(circle, #ffffff, grey);
+	padding: center;
+}
+
+.table {
+color: whitesmoke;
+padding: 0px 0px 0px 550px;
+}
+
+.button {
+  border-radius:10px;
+
+ 
+    
+
+}
